@@ -366,6 +366,13 @@
 	"attribution": "Jy Yaworski"
 },
 {
+	"moji": "👌",
+	"name": "ok_hand_sign",
+	"name-ja": "",
+	"category": "gesture",
+	"unicode": "1f44c"
+},
+{
 	"moji": "👍",
 	"name": "thumbs_up_sign",
 	"name-ja": "おやゆびサイン",
